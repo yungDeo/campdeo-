@@ -1,0 +1,61 @@
+@media (min-width 38em) {
+    html {
+        font-size: 20 px;
+       
+    }
+}
+
+body {
+    font-family: "hevetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+     background-color: lightblue;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    color: #333;
+}
+
+.container {
+    max-width: 70rem;
+}
+
+.blog-header {
+    margin-bottom: 4rem;
+    background-color: #428bca;
+}
+
+nav.navbar-inverse {
+    background: rgba(0, 0, 0, 0.6);
+    border: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.blog-post-title {
+    margin: 0;
+    padding: 0;
+}
+
+li.liks{
+    margin: 20px;
+    padding: 10px;
+
+}
+.blog-sidebar {
+	background-color: lightgrey;
+    margin-left: 20px;
+    padding-left 10px;
+}

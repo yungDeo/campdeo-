@@ -1,0 +1,46 @@
+nav.navbar-inverse{
+    background: rgba(0,0,0,0.6);
+    border: none;
+}
+
+@font-face {
+    font-family: "Custom Font";
+    src: url(04B_30__.TTF) format("truetype");
+}
+div.customfont h1 {
+    font-family: "Custom Font",fantasy;
+    color:white;
+    text-transform: uppercase;
+    position: absolute;
+    top: 80px;
+    left: 35%;
+   
+    ;
+}
+.customfont-btn{
+    font-family: "Custom Font", fantasy;
+    color:white;
+    
+    position: absolute;
+    text-transform: uppercase;
+    top: 45rem; 
+    left: 45%;
+    font-size: 50px;
+        
+    
+}
+video{
+    position: relative;
+    display:block;
+    width:100%;
+}
+img { 
+    height: auto;
+    width: 100%;
+    vertical-align: center;
+}
+#music-modal{
+    vertical-align: center;
+    text-align: center;
+  
+}
